@@ -27,7 +27,7 @@ app = Flask(__name__)
 #Base.metadata.bind = engine
 
 #DBSession = sessionmaker(bind=engine)
-session = DBSession()
+#session = DBSession()
 
 		
 @app.route('/', methods=['GET'])
