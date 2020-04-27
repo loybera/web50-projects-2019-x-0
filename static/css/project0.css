@@ -60,3 +60,10 @@ table, th, td {
     border: 1px solid black !important;
     border-collapse: collapse;
   }
+
+ table#t01 {
+    width: 100%;
+    background-color: white;
+
+    
+  }
