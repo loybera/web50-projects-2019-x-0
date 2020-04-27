@@ -25,8 +25,8 @@ In Customer I use a table with image
 
 5- project0.css:
 In CSS file I use:
-- hover for tag <a>
-- styles for tag <table>, <th> and <td>
+- hover for tag "a"
+- styles for tag "table", "th" and "td"
 - media for small screens
 - styles for grid and grid-item class
 - etc.
