@@ -2,6 +2,8 @@
 
 Web Programming with Python and JavaScript
 
+#Video: https://www.screencast.com/t/iQsg20IZt90
+
 My shop site is a simple site that consists of 4 sections and one css file:
 1- index.html
 2- product.html
